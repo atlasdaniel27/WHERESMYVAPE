@@ -347,15 +347,19 @@ li{
         </button>
         <div id="extraInfo" class="hidden">
             <br>
-            <img src="https://truthinitiative.org/sites/default/files/styles/embed_large/public/media/images/standard/2021/03/Truth_E-Cigarette%20Waste%20Report_graphic_web.png?itok=xN3S4cN_"
+<img
+src="https://truthinitiative.org/sites/default/files/styles/embed_large/public/media/images/standard/2021/03/Truth_E-Cigarette%20Waste%20Report_graphic_web.png?itok=xN3S4cN_"
             alt="Methods of e-cigarette waste disposal survey results"
             class="section-image"
             style="width:75%;">
-            <img src="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/512580014_10160896580037680_7770850703811954236_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1536x2048&ctp=p960x960&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_Oh66111qEUQ7kNvwESiY1E&_nc_oc=AdrHXjCLqPjEg1FI15rHNMlSvsjr1yg2QUPyha66vHQUl9ZMH64N5reUYgGRPevQeWMAPXzwFwyBgMWW9hTutelf&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=dhz1Dk5ZPwnmLIT4HfbbDA&_nc_ss=7b289&oh=00_Af9vIyY7ROiiHcmQb7ix45dgWxkPDOP6xNkKUGOaK1RWgQ&oe=6A2CF20D"
+<img src="Vermont_Survey_Results01"
             alt="Vape litter"
             class="section-image"
             style="width:50%;">
-            
+<img src="Vermont_Survey_Results02"
+            alt="Vape litter"
+            class="section-image"
+            style="width:50%;">
         </div>
     </div>
 </section>
@@ -373,7 +377,10 @@ li{
             <li>Expand e-waste collection infrastructure.</li>
         </ul>
     </div>
-
+            <img src="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/512580014_10160896580037680_7770850703811954236_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1536x2048&ctp=p960x960&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_Oh66111qEUQ7kNvwESiY1E&_nc_oc=AdrHXjCLqPjEg1FI15rHNMlSvsjr1yg2QUPyha66vHQUl9ZMH64N5reUYgGRPevQeWMAPXzwFwyBgMWW9hTutelf&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=dhz1Dk5ZPwnmLIT4HfbbDA&_nc_ss=7b289&oh=00_Af9vIyY7ROiiHcmQb7ix45dgWxkPDOP6xNkKUGOaK1RWgQ&oe=6A2CF20D"
+            alt="Vape litter"
+            class="section-image"
+            style="width:50%;">
     <div class="card">
         <h3>Key Takeaway</h3>
         <p>
