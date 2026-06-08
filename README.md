@@ -43,6 +43,7 @@ nav{
     text-align:center;
     position:sticky;
     top:0;
+    z-index:1000;
 }
 
 nav a{
@@ -75,7 +76,7 @@ h2{
     width:100%;
     max-width:800px;
     display:block;
-    margin:20px auto;
+    margin:30px auto;
     border-radius:10px;
     box-shadow:0 2px 8px rgba(0,0,0,0.15);
 }
@@ -85,13 +86,6 @@ h2{
     font-size:0.9rem;
     color:#666;
     margin-top:8px;
-}
-
-.stats{
-    display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
-    gap:20px;
-    margin-top:30px;
 }
 
 .stats{
