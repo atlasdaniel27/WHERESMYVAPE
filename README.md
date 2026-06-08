@@ -247,31 +247,36 @@ li{
     </div>
 <img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0860-1024x768.jpg"
      alt="Diagram showing vape components"
-     class="section-image">
+     class="section-image"
+     style="width:50%;"> 
 <p class="image-caption">
     Disassembled Lost Mary vape
 </p>
 <img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0867-990x742.jpg"
-     alt="Diagram showing vape components"
-     class="section-image">
+    alt="Diagram showing vape components"
+    class="section-image"
+    style="width:50%;">
 <p class="image-caption">
     Disassembled Bloody Mary vape
 </p>
 <img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0869-1024x768.jpg"
-     alt="Diagram showing vape components"
-     class="section-image">
+    alt="Diagram showing vape components"
+    class="section-image"
+    style="width:50%;">
 <p class="image-caption">
     Close up of Bloody Mary battery (13400 industry standard Li-ion battery, 550mAh capacity, 2Wh of power (2 watts for 1 hour of vaping))
 </p>
 <img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0859-1024x768.jpg"
-     alt="Diagram showing vape components"
-     class="section-image">
+    alt="Diagram showing vape components"
+    class="section-image"
+    style="width:50%;">
 <p class="image-caption">
     Disassembled Lost Mary e-liquid tank
 </p>
 <img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0871-990x742.jpg"
-     alt="Diagram showing vape components"
-     class="section-image">
+    alt="Diagram showing vape components"
+    class="section-image"
+    style="width:50%;">
 <p class="image-caption">
     Bloody Mary exposed coil sleeve
 </p>
@@ -320,6 +325,10 @@ li{
 
 <section id="waste">
     <h2>The Vape Waste Problem</h2>
+    <img src="https://www.aces.edu/wp-content/uploads/2023/04/shutterstock_2269905681-scaled.jpg"
+            alt="Vape litter"
+            class="section-image"
+            style="width:75%;">  
     <div class="card">
         <h3>Disposable Vapes = Electronic Waste</h3>
         <p>
@@ -349,29 +358,27 @@ li{
 
         <div id="extraInfo" class="hidden">
             <br>
+            <img src="https://truthinitiative.org/sites/default/files/styles/embed_large/public/media/images/standard/2021/03/Truth_E-Cigarette%20Waste%20Report_graphic_web.png?itok=xN3S4cN_"
+            alt="Methods of e-cigarette waste disposal survey results"
+            class="section-image"
+            style="width:50%;">
+            <img src="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/512580014_10160896580037680_7770850703811954236_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1536x2048&ctp=p960x960&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_Oh66111qEUQ7kNvwESiY1E&_nc_oc=AdrHXjCLqPjEg1FI15rHNMlSvsjr1yg2QUPyha66vHQUl9ZMH64N5reUYgGRPevQeWMAPXzwFwyBgMWW9hTutelf&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=dhz1Dk5ZPwnmLIT4HfbbDA&_nc_ss=7b289&oh=00_Af9vIyY7ROiiHcmQb7ix45dgWxkPDOP6xNkKUGOaK1RWgQ&oe=6A2CF20D"
+            alt="Vape litter"
+            class="section-image"
+            style="width:25%;">
+            <img src="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/512568041_10160896579927680_5268040328651672198_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1536x2048&ctp=p960x960&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=U7EpKTyV77oQ7kNvwHGzMk9&_nc_oc=AdoYBxr50Fq0_Sh7VOzpggMtruJ-NsYqLAMgHWg0XnmptItkR0JPfugOhiot3UdTTN3NpC8fd_0zZhGsV2SY6id6&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=dhz1Dk5ZPwnmLIT4HfbbDA&_nc_ss=7b289&oh=00_Af8GBydcZzKVRZwoUKPug99JISYfApqFZNSod8KMHUl5Qw&oe=6A2CCAF9"
+            alt="Vape litter"
+            class="section-image">
+            <p class="image-caption"
+            style="width:25%;">
+            Disposable vapes are increasingly contributing to electronic waste streams.
+            </p>
             <p>
                 Improperly discarded vape products threaten both human and non-human
                 communities. Wildlife can encounter toxic residues, waterways can become
                 contaminated by metals and chemicals, and communities near waste-processing
                 facilities face increased risks from battery fires and hazardous waste exposure.
             </p>
-            
-<img src="https://truthinitiative.org/sites/default/files/styles/embed_large/public/media/images/standard/2021/03/Truth_E-Cigarette%20Waste%20Report_graphic_web.png?itok=xN3S4cN_"
-     alt="Methods of e-cigarette waste disposal survey results"
-     class="section-image">
-<img src="https://www.aces.edu/wp-content/uploads/2023/04/shutterstock_2269905681-scaled.jpg"
-     alt="Vape litter"
-     class="section-image">
-<img src="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/512580014_10160896580037680_7770850703811954236_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1536x2048&ctp=p960x960&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_Oh66111qEUQ7kNvwESiY1E&_nc_oc=AdrHXjCLqPjEg1FI15rHNMlSvsjr1yg2QUPyha66vHQUl9ZMH64N5reUYgGRPevQeWMAPXzwFwyBgMWW9hTutelf&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=dhz1Dk5ZPwnmLIT4HfbbDA&_nc_ss=7b289&oh=00_Af9vIyY7ROiiHcmQb7ix45dgWxkPDOP6xNkKUGOaK1RWgQ&oe=6A2CF20D"
-     alt="Vape litter"
-     class="section-image">
-<img src="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/512568041_10160896579927680_5268040328651672198_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1536x2048&ctp=p960x960&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=U7EpKTyV77oQ7kNvwHGzMk9&_nc_oc=AdoYBxr50Fq0_Sh7VOzpggMtruJ-NsYqLAMgHWg0XnmptItkR0JPfugOhiot3UdTTN3NpC8fd_0zZhGsV2SY6id6&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=dhz1Dk5ZPwnmLIT4HfbbDA&_nc_ss=7b289&oh=00_Af8GBydcZzKVRZwoUKPug99JISYfApqFZNSod8KMHUl5Qw&oe=6A2CCAF9"
-     alt="Vape litter"
-     class="section-image">
-<p class="image-caption">
-    Disposable vapes are increasingly contributing to electronic waste streams.
-</p>
-
         </div>
     </div>
 </section>
