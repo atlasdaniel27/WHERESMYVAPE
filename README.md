@@ -347,19 +347,18 @@ li{
         </button>
         <div id="extraInfo" class="hidden">
             <br>
-<img
-src="https://truthinitiative.org/sites/default/files/styles/embed_large/public/media/images/standard/2021/03/Truth_E-Cigarette%20Waste%20Report_graphic_web.png?itok=xN3S4cN_"
+<img src="https://truthinitiative.org/sites/default/files/styles/embed_large/public/media/images/standard/2021/03/Truth_E-Cigarette%20Waste%20Report_graphic_web.png?itok=xN3S4cN_"
             alt="Methods of e-cigarette waste disposal survey results"
             class="section-image"
             style="width:75%;">
 <img src="images/Vermont_Survey_Results01.jpeg"
             alt="Vermont Survey Results 01"
             class="section-image"
-            style="width:50%;">
+            style="width:75%;">
 <img src="images/Vermont_Survey_Results02.jpeg"
             alt="Vermont Survey Results 02"
             class="section-image"
-            style="width:50%;">
+            style="width:75%;">
         </div>
     </div>
 </section>
