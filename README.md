@@ -397,6 +397,23 @@ li{
         Sources include peer-reviewed research on e-cigarette environmental impacts,
         indoor air quality, vape waste, and public health reports.
     </p>
+      <button onclick="toggleInfo()">
+            See Sources
+        </button>
+        <div id="extraInfo" class="hidden">
+            <br>
+            <p>
+                Alabama Cooperative Extension System. (2024, April 26). Vaping: The latest environmental problem? https://www.aces.edu/blog/topics/home/vaping-the-latest-environmental-problem/  
+                Americans for Nonsmokers' Rights. (n.d.). Electronic smoking devices and secondhand aerosol. https://no-smoke.org/electronic-smoking-devices-secondhand-aerosol/  
+                Bhetuwal, A., & Bullen, C. (May 28, 2025). Disposable vapes: An emerging environmental health threat. Public Health Expert Briefing. https://www.phcc.org.nz/briefing/disposable-vapes-emerging-environmental-health-threat
+                Campaign for Tobacco-Free Kids. (2023). The environmental impact of e-cigarettes and disposable vapes (Fact Sheet No. 04302). https://assets.tobaccofreekids.org/factsheets/04302.pdf  
+                Constantin, A.-A., & Mihălțan, F.-D. (2025). E-Cigarette and Environment. Environments, 12(3), 72. https://doi.org/10.3390/environments12030072 
+                DisposaVapes. (n.d.). Disassembling popular vapes. https://disposavapes.co.uk/disassembling-popular-vapes/ 
+                Liqiao Li, Yan Lin, Tian Xia, Yifang Zhu. 2020. Effects of Electronic Cigarettes on Indoor Air Quality and Health. Annual Review Public Health. 41:363-380. https://doi.org/10.1146/annurev-publhealth-040119-094043 
+                Ngambo, G., Hanna, E. G., Gannon, J., Marcus, H., Lomazzi, M., & Azari, R. (2023). A scoping review on e-cigarette environmental impacts. Tobacco prevention & cessation, 9, 30. https://doi.org/10.18332/tpc/172079  
+                Truth Initiative. (2022, April 20). The toxic plastic problem: E-cigarette waste and the environment. https://truthinitiative.org/research-resources/harmful-effects-tobacco/toxic-plastic-problem-e-cigarette-waste-and-environment  
+                Vermont Department of Health. (2025). Vape disposal and environmental impact beliefs [Data brief]. https://www.healthvermont.gov/sites/default/files/document/hsi-pace-databrief-vape-disposal-and-environmental-beliefs.pdf 
+            </p>
 </footer>
 
 <script>
