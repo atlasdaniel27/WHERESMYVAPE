@@ -207,32 +207,6 @@ li{
 
 <section id="anatomy">
     <h2>What’s Inside a Vape?</h2>
-    
-<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0867-990x742.jpg"
-     alt="Diagram showing vape components"
-     class="section-image">
-<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0869-1024x768.jpg"
-     alt="Diagram showing vape components"
-     class="section-image">
-<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0860-1024x768.jpg"
-     alt="Diagram showing vape components"
-     class="section-image">
-<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0860-1024x768.jpg"
-     alt="Diagram showing vape components"
-     class="section-image">
-<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0859-1024x768.jpg"
-     alt="Diagram showing vape components"
-     class="section-image">
-<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0870-1024x768.jpg"
-     alt="Diagram showing vape components"
-     class="section-image">
-<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0871-990x742.jpg"
-     alt="Diagram showing vape components"
-     class="section-image">
-<p class="image-caption">
-    Disposable vapes contain plastic, electronics, batteries, and chemicals.
-</p>
-
     <div class="card">
         <p>
             Disposable and reusable e-cigarettes are made of multiple components that combine
@@ -271,6 +245,36 @@ li{
             </p>
         </div>
     </div>
+<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0867-990x742.jpg"
+     alt="Diagram showing vape components"
+     class="section-image">
+<p class="image-caption">
+    Disassembled Bloody Mary vape
+</p>
+<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0869-1024x768.jpg"
+     alt="Diagram showing vape components"
+     class="section-image">
+<p class="image-caption">
+    Close up of Bloody Mary battery (13400 industry standard Li-ion battery, 550mAh capacity, 2Wh of power (2 watts for 1 hour of vaping))
+</p>
+<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0860-1024x768.jpg"
+     alt="Diagram showing vape components"
+     class="section-image">
+<p class="image-caption">
+    Disassembled Lost Mary vape
+</p>
+<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0859-1024x768.jpg"
+     alt="Diagram showing vape components"
+     class="section-image">
+<p class="image-caption">
+    Disassembled Lost Mary e-liquid tank
+</p>
+<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0871-990x742.jpg"
+     alt="Diagram showing vape components"
+     class="section-image">
+<p class="image-caption">
+    Bloody Mary exposed coil sleeve
+</p>
 </section>
 
 <section id="air">
