@@ -214,20 +214,6 @@ li{
                 Can leave toxic residue when discarded.
             </p>
         </div>
-
-        <div class="stat">
-            <h3>Circuit Board</h3>
-            <p>
-                Controls heating and power flow. Contains trace metals and electronic waste materials.
-            </p>
-        </div>
-
-        <div class="stat">
-            <h3>Metal Contacts</h3>
-            <p>
-                Connect battery to coil. Often contain copper, lead, or nickel traces.
-            </p>
-        </div>
     </div>
 </section>
 
