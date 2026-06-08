@@ -342,10 +342,11 @@ li{
         residues, waterways can become contaminated by metals and chemicals, and communities near waste-processing 
         facilities face increased risks from battery fires and hazardous waste exposure.
         </p>
-        <button onclick="toggleInfo()">
-            Learn More
-        </button>
-        <div id="extraInfo" class="hidden">
+<button onclick="toggleInfo('wasteInfo')">
+    Learn More
+</button>
+
+<div id="wasteInfo" class="hidden">
             <br>
 <img src="https://truthinitiative.org/sites/default/files/styles/embed_large/public/media/images/standard/2021/03/Truth_E-Cigarette%20Waste%20Report_graphic_web.png?itok=xN3S4cN_"
             alt="Methods of e-cigarette waste disposal survey results"
@@ -397,10 +398,11 @@ li{
         Sources include peer-reviewed research on e-cigarette environmental impacts,
         indoor air quality, vape waste, and public health reports.
     </p>
-      <button onclick="toggleInfo()">
-            See Sources
-        </button>
-        <div id="extraInfo" class="hidden">
+<button onclick="toggleInfo('sourcesInfo')">
+    See Sources
+</button>
+
+<div id="sourcesInfo" class="hidden">
             <br>
             <p>
                 Alabama Cooperative Extension System. (2024, April 26). Vaping: The latest environmental problem? https://www.aces.edu/blog/topics/home/vaping-the-latest-environmental-problem/  
@@ -414,13 +416,14 @@ li{
                 Truth Initiative. (2022, April 20). The toxic plastic problem: E-cigarette waste and the environment. https://truthinitiative.org/research-resources/harmful-effects-tobacco/toxic-plastic-problem-e-cigarette-waste-and-environment  
                 Vermont Department of Health. (2025). Vape disposal and environmental impact beliefs [Data brief]. https://www.healthvermont.gov/sites/default/files/document/hsi-pace-databrief-vape-disposal-and-environmental-beliefs.pdf 
             </p>
+        </div>
 </footer>
 
 <script>
-function toggleInfo() {
-    const info = document.getElementById("extraInfo");
+function toggleInfo(id) {
+    const info = document.getElementById(id);
 
-    if(info.classList.contains("hidden")){
+    if (info.classList.contains("hidden")) {
         info.classList.remove("hidden");
     } else {
         info.classList.add("hidden");
