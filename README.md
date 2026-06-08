@@ -353,11 +353,11 @@ src="https://truthinitiative.org/sites/default/files/styles/embed_large/public/m
             class="section-image"
             style="width:75%;">
 <img src="images/Vermont_Survey_Results01.jpeg"
-            alt="Vape litter"
+            alt="Vermont Survey Results 01"
             class="section-image"
             style="width:50%;">
 <img src="images/Vermont_Survey_Results02.jpeg"
-            alt="Vape litter"
+            alt="Vermont Survey Results 02"
             class="section-image"
             style="width:50%;">
         </div>
@@ -377,10 +377,6 @@ src="https://truthinitiative.org/sites/default/files/styles/embed_large/public/m
             <li>Expand e-waste collection infrastructure.</li>
         </ul>
     </div>
-            <img src="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/512580014_10160896580037680_7770850703811954236_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1536x2048&ctp=p960x960&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_Oh66111qEUQ7kNvwESiY1E&_nc_oc=AdrHXjCLqPjEg1FI15rHNMlSvsjr1yg2QUPyha66vHQUl9ZMH64N5reUYgGRPevQeWMAPXzwFwyBgMWW9hTutelf&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=dhz1Dk5ZPwnmLIT4HfbbDA&_nc_ss=7b289&oh=00_Af9vIyY7ROiiHcmQb7ix45dgWxkPDOP6xNkKUGOaK1RWgQ&oe=6A2CF20D"
-            alt="Vape litter"
-            class="section-image"
-            style="width:50%;">
     <div class="card">
         <h3>Key Takeaway</h3>
         <p>
@@ -390,6 +386,10 @@ src="https://truthinitiative.org/sites/default/files/styles/embed_large/public/m
             challenges. Addressing vape waste requires changes in product design, regulation,
             and consumer behavior.
         </p>
+<img src="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/512580014_10160896580037680_7770850703811954236_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1536x2048&ctp=p960x960&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_Oh66111qEUQ7kNvwESiY1E&_nc_oc=AdrHXjCLqPjEg1FI15rHNMlSvsjr1yg2QUPyha66vHQUl9ZMH64N5reUYgGRPevQeWMAPXzwFwyBgMWW9hTutelf&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=dhz1Dk5ZPwnmLIT4HfbbDA&_nc_ss=7b289&oh=00_Af9vIyY7ROiiHcmQb7ix45dgWxkPDOP6xNkKUGOaK1RWgQ&oe=6A2CF20D"
+            alt="Vape litter"
+            class="section-image"
+            style="width:50%;">
     </div>
 </section>
 
