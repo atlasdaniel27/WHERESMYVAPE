@@ -338,9 +338,10 @@ li{
     <div class="card">
         <p>
         Most people don't realize that improperly discarded vape products threaten both human and non-human communities. 
-        Even if you don't vape, it's important to educate yourself and eachother on how to correctly dispose of vapes 
-        because wildlife can encounter toxic residues, waterways can become contaminated by metals and chemicals, 
-        and communities near waste-processing facilities face increased risks from battery fires and hazardous waste exposure. 
+        Even if you don't vape, it's important to educate yourself and others on how to correctly dispose of vapes. Throwing 
+        away vapes in the wrong place means wildlife can encounter toxic residues, waterways can become contaminated by metals 
+        and chemicals, and communities near waste-processing facilities face increased risks from battery fires and hazardous 
+        waste exposure. 
         </p>
 <button onclick="toggleInfo('wasteInfo')">
     See More
