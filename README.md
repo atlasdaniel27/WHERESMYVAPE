@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -138,6 +139,7 @@ li{
 
 <nav>
     <a href="#overview">Overview</a>
+    <a href="#anatomy">Vape Parts</a>
     <a href="#air">Air Pollution</a>
     <a href="#waste">Waste</a>
     <a href="#solutions">Solutions</a>
@@ -169,39 +171,6 @@ li{
             <h3>82M</h3>
             <p>Estimated global vaping users in 2023.</p>
         </div>
-    </div>
-</section>
-
-<section id="air">
-    <h2>Environmental Impact During Use</h2>
-
-    <div class="card">
-        <h3>Indoor Air Pollution</h3>
-        <p>
-            Although e-cigarettes do not burn tobacco, they release aerosols containing nicotine,
-            ultrafine particles, volatile organic compounds (VOCs), aldehydes, heavy metals, and
-            other potentially hazardous substances.
-        </p>
-    </div>
-
-    <div class="card">
-        <h3>Secondhand and Thirdhand Exposure</h3>
-        <p>
-            More than 70% of inhaled vape aerosol is eventually exhaled into the surrounding
-            environment. These emissions can affect indoor air quality and expose bystanders,
-            including children and non-users, to airborne pollutants.
-        </p>
-    </div>
-
-    <div class="card">
-        <h3>Environmental Contaminants</h3>
-        <ul>
-            <li>Nicotine residues</li>
-            <li>Lead, nickel, chromium, and copper</li>
-            <li>Fine particulate matter (PM2.5)</li>
-            <li>Volatile organic compounds (VOCs)</li>
-            <li>Persistent PFAS chemicals</li>
-        </ul>
     </div>
 </section>
 
@@ -259,6 +228,39 @@ li{
                 Connect battery to coil. Often contain copper, lead, or nickel traces.
             </p>
         </div>
+    </div>
+</section>
+
+<section id="air">
+    <h2>Environmental Impact During Use</h2>
+
+    <div class="card">
+        <h3>Indoor Air Pollution</h3>
+        <p>
+            Although e-cigarettes do not burn tobacco, they release aerosols containing nicotine,
+            ultrafine particles, volatile organic compounds (VOCs), aldehydes, heavy metals, and
+            other potentially hazardous substances.
+        </p>
+    </div>
+
+    <div class="card">
+        <h3>Secondhand and Thirdhand Exposure</h3>
+        <p>
+            More than 70% of inhaled vape aerosol is eventually exhaled into the surrounding
+            environment. These emissions can affect indoor air quality and expose bystanders,
+            including children and non-users, to airborne pollutants.
+        </p>
+    </div>
+
+    <div class="card">
+        <h3>Environmental Contaminants</h3>
+        <ul>
+            <li>Nicotine residues</li>
+            <li>Lead, nickel, chromium, and copper</li>
+            <li>Fine particulate matter (PM2.5)</li>
+            <li>Volatile organic compounds (VOCs)</li>
+            <li>Persistent PFAS chemicals</li>
+        </ul>
     </div>
 </section>
 
