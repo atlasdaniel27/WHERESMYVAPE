@@ -205,6 +205,63 @@ li{
     </div>
 </section>
 
+<section id="anatomy">
+    <h2>What’s Inside a Vape?</h2>
+
+    <div class="card">
+        <p>
+            Disposable and reusable e-cigarettes are made of multiple components that combine
+            plastics, metals, electronics, and chemical liquids. These parts make recycling difficult
+            and contribute to environmental harm when improperly discarded.
+        </p>
+    </div>
+
+    <div class="stats">
+        <div class="stat">
+            <h3>Plastic</h3>
+            <p>
+                Outer casing and mouthpiece. Breaks down into microplastics in the environment.
+            </p>
+        </div>
+
+        <div class="stat">
+            <h3>Lithium Battery</h3>
+            <p>
+                Powers the device. Can cause fires and leaks toxic chemicals if damaged.
+            </p>
+        </div>
+
+        <div class="stat">
+            <h3>Heating Coil</h3>
+            <p>
+                Metal coil (often nickel or chromium) that heats the liquid into aerosol.
+            </p>
+        </div>
+
+        <div class="stat">
+            <h3>E-Liquid</h3>
+            <p>
+                Contains nicotine, flavorings, propylene glycol, and vegetable glycerin.
+                Can leave toxic residue when discarded.
+            </p>
+        </div>
+
+        <div class="stat">
+            <h3>Circuit Board</h3>
+            <p>
+                Controls heating and power flow. Contains trace metals and electronic waste materials.
+            </p>
+        </div>
+
+        <div class="stat">
+            <h3>Metal Contacts</h3>
+            <p>
+                Connect battery to coil. Often contain copper, lead, or nickel traces.
+            </p>
+        </div>
+    </div>
+</section>
+
 <section id="waste">
     <h2>The Vape Waste Problem</h2>
 
