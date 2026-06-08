@@ -71,6 +71,29 @@ h2{
     box-shadow:0 2px 8px rgba(0,0,0,0.1);
 }
 
+.section-image{
+    width:100%;
+    max-width:800px;
+    display:block;
+    margin:20px auto;
+    border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.15);
+}
+
+.image-caption{
+    text-align:center;
+    font-size:0.9rem;
+    color:#666;
+    margin-top:8px;
+}
+
+.stats{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:20px;
+    margin-top:30px;
+}
+
 .stats{
     display:grid;
     grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
@@ -148,6 +171,14 @@ li{
 <section id="overview">
     <h2>Why Does Vaping Matter Environmentally?</h2>
 
+<img src="images/vape-trash.jpg"
+     alt="Discarded disposable vapes"
+     class="section-image">
+
+<p class="image-caption">
+    Disposable vape waste contributes to growing electronic waste worldwide.
+</p>
+
     <div class="card">
         <p>
             E-cigarettes create environmental impacts during production, use, and disposal.
@@ -176,6 +207,31 @@ li{
 
 <section id="anatomy">
     <h2>What’s Inside a Vape?</h2>
+    
+<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0867-990x742.jpg"
+     alt="Diagram showing vape components"
+     class="section-image">
+<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0869-1024x768.jpg"
+     alt="Diagram showing vape components"
+     class="section-image">
+<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0860-1024x768.jpg"
+     alt="Diagram showing vape components"
+     class="section-image">
+<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0860-1024x768.jpg"
+     alt="Diagram showing vape components"
+     class="section-image">
+<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0859-1024x768.jpg"
+     alt="Diagram showing vape components"
+     class="section-image">
+<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0870-1024x768.jpg"
+     alt="Diagram showing vape components"
+     class="section-image">
+<img src="https://disposavapes.co.uk/wp-content/uploads/2023/09/IMG_0871-990x742.jpg"
+     alt="Diagram showing vape components"
+     class="section-image">
+<p class="image-caption">
+    Disposable vapes contain plastic, electronics, batteries, and chemicals.
+</p>
 
     <div class="card">
         <p>
@@ -220,6 +276,14 @@ li{
 <section id="air">
     <h2>Environmental Impact During Use</h2>
 
+<img src="images/vape-aerosol.jpg"
+     alt="Person exhaling vape aerosol"
+     class="section-image">
+
+<p class="image-caption">
+    Vape aerosols release fine particles and chemicals into indoor environments.
+</p>
+
     <div class="card">
         <h3>Indoor Air Pollution</h3>
         <p>
@@ -252,6 +316,14 @@ li{
 
 <section id="waste">
     <h2>The Vape Waste Problem</h2>
+
+<img src="images/e-waste-vapes.jpg"
+     alt="Pile of discarded disposable vapes"
+     class="section-image">
+
+<p class="image-caption">
+    Disposable vapes are increasingly contributing to electronic waste streams.
+</p>
 
     <div class="card">
         <h3>Disposable Vapes = Electronic Waste</h3>
