@@ -337,12 +337,13 @@ li{
 
     <div class="card">
         <p>
-        Improperly discarded vape products threaten both human and non-human communities. Wildlife can encounter toxic 
-        residues, waterways can become contaminated by metals and chemicals, and communities near waste-processing 
-        facilities face increased risks from battery fires and hazardous waste exposure.
+        Most people don't realize that improperly discarded vape products threaten both human and non-human communities. 
+        Even if you don't vape, it's important to educate yourself and eachother on how to correctly dispose of vapes 
+        because wildlife can encounter toxic residues, waterways can become contaminated by metals and chemicals, 
+        and communities near waste-processing facilities face increased risks from battery fires and hazardous waste exposure. 
         </p>
 <button onclick="toggleInfo('wasteInfo')">
-    Learn More
+    See More
 </button>
 
 <div id="wasteInfo" class="hidden">
