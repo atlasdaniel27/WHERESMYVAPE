@@ -393,10 +393,6 @@ li{
     </div>
 </section>
 
-<div id="sourcesInfo">
-    TEST
-</div> 
-
 <footer>
     <p>
         Sources include peer-reviewed research on e-cigarette environmental impacts,
