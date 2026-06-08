@@ -171,9 +171,10 @@ li{
 <section id="overview">
     <h2>Why Does Vaping Matter Environmentally?</h2>
 
-<img src="images/vape-trash.jpg"
+<img src="https://c.files.bbci.co.uk/57a7/live/e9bab190-8cae-11f0-82aa-7d0865a885a4.jpg"
      alt="Discarded disposable vapes"
-     class="section-image">
+     class="section-image"
+     style="width:75%;">
 
 <p class="image-caption">
     Disposable vape waste contributes to growing electronic waste worldwide.
@@ -285,14 +286,6 @@ li{
 <section id="air">
     <h2>Environmental Impact During Use</h2>
 
-<img src="images/vape-aerosol.jpg"
-     alt="Person exhaling vape aerosol"
-     class="section-image">
-
-<p class="image-caption">
-    Vape aerosols release fine particles and chemicals into indoor environments.
-</p>
-
     <div class="card">
         <h3>Indoor Air Pollution</h3>
         <p>
@@ -350,16 +343,14 @@ li{
     </div>
 
     <div class="card">
-        <h3>Learn More</h3>
         <p>
         Improperly discarded vape products threaten both human and non-human communities. Wildlife can encounter toxic 
         residues, waterways can become contaminated by metals and chemicals, and communities near waste-processing 
         facilities face increased risks from battery fires and hazardous waste exposure.
         </p>
         <button onclick="toggleInfo()">
-            See More
+            Learn More
         </button>
-
         <div id="extraInfo" class="hidden">
             <br>
             <img src="https://truthinitiative.org/sites/default/files/styles/embed_large/public/media/images/standard/2021/03/Truth_E-Cigarette%20Waste%20Report_graphic_web.png?itok=xN3S4cN_"
@@ -369,12 +360,8 @@ li{
             <img src="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/512580014_10160896580037680_7770850703811954236_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1536x2048&ctp=p960x960&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_Oh66111qEUQ7kNvwESiY1E&_nc_oc=AdrHXjCLqPjEg1FI15rHNMlSvsjr1yg2QUPyha66vHQUl9ZMH64N5reUYgGRPevQeWMAPXzwFwyBgMWW9hTutelf&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=dhz1Dk5ZPwnmLIT4HfbbDA&_nc_ss=7b289&oh=00_Af9vIyY7ROiiHcmQb7ix45dgWxkPDOP6xNkKUGOaK1RWgQ&oe=6A2CF20D"
             alt="Vape litter"
             class="section-image"
-            style="width:25%;">
-            <img src="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/512568041_10160896579927680_5268040328651672198_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1536x2048&ctp=p960x960&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=U7EpKTyV77oQ7kNvwHGzMk9&_nc_oc=AdoYBxr50Fq0_Sh7VOzpggMtruJ-NsYqLAMgHWg0XnmptItkR0JPfugOhiot3UdTTN3NpC8fd_0zZhGsV2SY6id6&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=dhz1Dk5ZPwnmLIT4HfbbDA&_nc_ss=7b289&oh=00_Af8GBydcZzKVRZwoUKPug99JISYfApqFZNSod8KMHUl5Qw&oe=6A2CCAF9"
-            alt="Vape litter"
-            class="section-image">
-            style="width:25%;">
-            </p>
+            style="width:50%;">
+            
         </div>
     </div>
 </section>
