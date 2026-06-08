@@ -404,7 +404,6 @@ li{
     </button>
 
     <div id="sourcesInfo" class="hidden">
-        <br>
         <p>
                 Alabama Cooperative Extension System. (2024, April 26). Vaping: The latest environmental problem? https://www.aces.edu/blog/topics/home/vaping-the-latest-environmental-problem/  
                 Americans for Nonsmokers' Rights. (n.d.). Electronic smoking devices and secondhand aerosol. https://no-smoke.org/electronic-smoking-devices-secondhand-aerosol/  
